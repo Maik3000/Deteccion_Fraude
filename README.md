@@ -62,7 +62,7 @@ Este proyecto tiene como finalidad desarrollar un sistema de detección de fraud
 ## **🔍 Hallazgos Clave**  
 - **Variables críticas:** V4, V11 (↑ riesgo), V14, V2 (↓ riesgo).  
 - **Mejor modelo:** Random Forest con **80% recall** (Equilibrado en metricas).   
-- **Falsos positivos:** 8 transacciones legítimas marcadas como fraude.   
+- **Falsos positivos:** 20 transacciones legítimas marcadas como fraude.   
 
 ---
 
